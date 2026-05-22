@@ -157,6 +157,6 @@ streamlit run streamlit_app.py
 
 ## 👤 Author
 
-**Your Name**
-BS Data Science · Your University
-GitHub: [@your-username](https://github.com/your-username)
+**Muhammad Usaid**
+BS Data Science · 
+GitHub: M-Usaid1 https://github.com/M-Usaid1
