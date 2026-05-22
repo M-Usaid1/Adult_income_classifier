@@ -177,7 +177,7 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 # ── API URL ───────────────────────────────────────────────────
-API_URL = "http://localhost:8000/predict"
+API_URL = "https://usaid2-adult-income-api.hf.space/predict"
 
 # ── Layout ───────────────────────────────────────────────────
 col1, col2, col3 = st.columns([1, 1, 1], gap="large")
