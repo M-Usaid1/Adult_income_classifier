@@ -139,8 +139,8 @@ streamlit run streamlit_app.py
 
 ## 🚀 Deployment / Demo Link
 
-> 🔗 **Live Demo:** `https://your-deployment-link-here.com`
-> *(Update after deploying to Streamlit Cloud / Render / Railway)*
+> 🔗 **Live Demo:** `> https://adult-income-classifier.streamlit.app`
+> 
 
 ---
 
